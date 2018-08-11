@@ -1,0 +1,4 @@
+int main(){
+	printf ("something\n");
+	return 0;
+}
