@@ -1,3 +1,6 @@
 int main(){
 	printf("alteracao\n");
 }
+
+1 
+1
